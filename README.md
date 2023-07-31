@@ -1,1 +1,1 @@
-My first html project, trying out git add, git commit and git push
+My first html project to create a website of recipes. Trying out git add, git commit and git push
